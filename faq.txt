@@ -1,0 +1,5 @@
+https://faq.whatsapp.com/general/security-and-privacy/unauthorized-use-of-automated-or-bulk-messaging-on-whatsapp/?lang=en
+
+C:\Users\harik\AppData\Local\SeleniumBasic
+
+https://github.com/florentbr/SeleniumBasic/releases/tag/v2.0.9.0
